@@ -2,4 +2,4 @@
 
 - 👋 Hello, I'm Park Mincheol
 - I work as a system engineer.
-- I'm studying to be a back-end developer.
+- I'm studying to be a DevOps engineer
